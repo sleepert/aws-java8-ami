@@ -1,5 +1,6 @@
 # aws-java8-ami
 
+A very simple 'hello world' example for creating an AMI with java8 prebaked
 Use packer to create an AMI with java 8 runtime pre-installed
 
 ## Usage
